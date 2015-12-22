@@ -1,3 +1,4 @@
+//Knockout.js File
 var initialCats = [
 	{
 		clickCount: 0,
